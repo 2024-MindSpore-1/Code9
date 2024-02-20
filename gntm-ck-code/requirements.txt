@@ -1,0 +1,2 @@
+torch-scatter @ file:///home/cike/bingshan/torch_scatter-2.0.6-cp37-cp37m-linux_x86_64.whl
+torch-sparse @ file:///home/cike/bingshan/torch_sparse-0.6.9-cp37-cp37m-linux_x86_64.whl
